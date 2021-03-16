@@ -1,0 +1,30 @@
+.p1{
+    border-radius: 25px;
+    background-color: maroon ;
+    padding: 20px; 
+    width: 180px;
+    height: 100px;  
+}
+.p2{
+    border-radius: 25px;
+    border: 2px solid maroon;
+    padding: 20px; 
+    width: 180px;
+    height: 100px;
+}
+.p3{
+    border-radius: 25px;
+    background-image: url(./img/thor.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 220px;
+    padding: 20px;
+    width: 180px;
+    height: 100px;
+    
+}
+.p4{
+    border: solid;
+    padding: 5px;
+    width: 550px;
+}

@@ -1,0 +1,26 @@
+.p1{
+    border: solid 1px;
+    border-radius: 50px / 15px;
+    background-color: maroon;
+    width: 200px;
+    height: 150px; 
+}
+.p2{
+    border: solid 1px;
+    border-radius: 15px / 50px;
+    background-color: maroon;
+    width: 200px;
+    height: 150px;
+}
+.p3{
+    border: solid 1px;
+    border-radius: 50%;
+    background-color: maroon;
+    width: 200px;
+    height: 150px;
+}
+.d1{
+    border: solid;
+    padding: 20px;
+    width: 450px;
+}

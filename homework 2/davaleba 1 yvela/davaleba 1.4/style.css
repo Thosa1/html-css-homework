@@ -1,0 +1,23 @@
+.d1{
+    text-align: center;
+}
+.d2{
+    text-align: right;
+}
+.d3{
+    text-align: left;
+}
+.d4{
+    border: solid red;
+    width: 300px;
+}
+.d5{
+    text-align: right;
+}
+.d6{
+    text-align: left;
+}
+.d7{
+    border: solid blue;
+    width: 300px;
+}

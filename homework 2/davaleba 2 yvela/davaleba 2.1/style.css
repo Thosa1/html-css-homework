@@ -1,0 +1,60 @@
+.b1{
+    border: solid  black;
+    padding: 5px;
+    width: 510px;
+}
+.a1{
+    border-style: dotted;
+    border-color: aqua;
+    width: 500px;
+}
+.a2{
+    border-style: dashed;
+    border-color: aqua;
+    width: 500px;
+}
+.a3{
+    border-style: solid;
+    border-color: aqua;
+    width: 500px;
+}
+.a4{
+    border-style: double;
+    border-color: aqua;
+    width: 500px;
+}
+.d1{
+    border-style: groove;
+    border-color: aqua;
+    width: 500px;
+}
+.d2{
+    border-style: ridge;
+    border-color: aqua;
+    width: 500px;
+}
+.d3{
+    border-style: inset;
+    border-color: aqua;
+    width: 500px;
+}
+.c1{
+    border-style: outset;
+    border-color: aqua;
+    width: 500px;
+}
+.c2{
+    border-style: none;
+    border-color: aqua;
+    width: 500px;
+}
+.c3{
+    border-style: hidden;
+    border-color: aqua;
+    width: 500px;
+}
+.c4{
+    border-style: dotted dashed solid double;
+    border-color: aqua;
+    width: 500px;
+}

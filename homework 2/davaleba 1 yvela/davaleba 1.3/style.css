@@ -1,0 +1,9 @@
+div{
+    border: 3px solid rgb(0, 0, 0);
+    padding: 15px;
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    text-align: right;
+    color: red;
+}

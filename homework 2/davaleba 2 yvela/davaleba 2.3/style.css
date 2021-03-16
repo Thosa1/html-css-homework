@@ -1,0 +1,18 @@
+.d1{
+    border-radius: 15px 50px 30px 5px;
+    background:maroon;
+    width: 200px;
+    height: 150px;
+}
+.d2{
+    border-radius: 15px 50px 30px;
+    background:maroon;
+    width: 200px;
+    height: 150px;
+}
+.d3{
+    border-radius: 15px 50px;
+    background:maroon;
+    width: 200px;
+    height: 150px;
+}
