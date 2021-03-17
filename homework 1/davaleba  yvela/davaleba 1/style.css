@@ -1,0 +1,33 @@
+body{
+    background-color:gray;
+}
+.d1{
+    display: inline-table;
+    color: blue;
+}
+.d2{
+    display: inline-table;
+    font-size: 30px;
+}
+.d3{
+    display: inline-table;
+    color: blue;
+}
+.d4{
+    display: inline-table;
+    color: green;
+    font-size: 30px;
+}
+.a1{
+    font-size: 15px;
+    color: blue;
+}
+.a2{
+    font-size: 17px;
+    color: blue;
+}
+.a4{
+    position: relative;
+    top: 200px;
+    left: 300px;
+}
