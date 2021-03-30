@@ -1,0 +1,32 @@
+body{
+    background-image: url(./images/iron-man-marvel-avengers-i44208.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    color: white;
+}
+
+.a1{
+    color: gold;
+    text-align: center;
+}
+
+.a2{
+    background-image: url(./images/323408.jpg);
+    background-size: 400px;
+    height: 280px;
+    background-repeat: no-repeat;
+}
+
+.a3{
+    background-image: url(./images/science-fiction-powers-Marvel-Comics-Avengers.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+
+.a4{
+    text-align: center;
+}

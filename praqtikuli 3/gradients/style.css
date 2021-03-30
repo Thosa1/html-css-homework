@@ -1,0 +1,36 @@
+td{
+      border: solid rgb(216, 215, 215) 10px;
+}
+.a1{
+    background-image: linear-gradient( 90deg, red, green,blue );
+
+}
+.a2{
+    background-image: linear-gradient( blue, green, red);
+}
+.a3{
+      background-image: linear-gradient(-45deg, red, green, blue);
+}
+.a4{
+      background-image: linear-gradient(45deg, blue, green,red 60%);
+}
+table{
+      border: solid black 2px;
+      height: 130px;
+      width: 800px;
+      background-color: rgb(216, 215, 215);
+}
+
+.b1{
+      background-image: radial-gradient( red, green, blue);
+}
+.b2{
+      background-image: radial-gradient( red 35%, green 5%, blue 60%);
+}
+.b3{
+      background-image: repeating-radial-gradient( red 50%, green,blue 90%);
+      
+}
+.b4{
+      background-image: radial-gradient( red 20%, green 20%, blue 30%);
+}

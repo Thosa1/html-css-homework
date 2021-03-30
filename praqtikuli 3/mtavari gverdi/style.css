@@ -1,0 +1,54 @@
+ul{
+    list-style-type: square;
+}
+.a1{
+    text-align: center;
+}
+body{
+    background-image: url(img/marvel.png);
+    background-size: 1600px;
+    background-repeat: no-repeat;
+}
+.a2{
+    background-image: url(./img/thor.jfif);
+    height: 500px;
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.a3{
+    background-image: url(./img/iron\ man.jpg);
+    height: 500px;
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-position: bottom left 330px;
+}
+.a4{
+    background-image: url(./img/black\ widow.jpg);
+    height: 700px;
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center ;
+}
+.a5{
+    background-image: url(./img/hawkeye.jpg);
+    background-repeat: no-repeat;
+    width: auto;
+    height: 500px;
+    background-size: 230px;
+    background-position: bottom left 1000px;
+}
+.a6{
+    background-image: url(./img/hulk.jpg);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    height: 700px;
+    background-position: center right;
+
+}
+.s{
+    color: green;
+}
+.s1{
+    color: blue;
+}
