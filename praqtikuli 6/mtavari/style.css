@@ -1,0 +1,218 @@
+header{
+    height: 170px;
+    background-color: #323534;
+    border-bottom: solid 5px green ;
+}
+nav{
+    border: solid 10px rgb(189, 188, 188);
+    height: 200px;
+    width: 1000px;
+    margin: 30px auto;
+    background-image: url(./FotisMavroudakis_conjunction_Dec21_2020_-KavalaGreece.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+main{
+
+    height: 800px;
+    margin: 0px 271px;
+    width: 640px;
+}
+
+.p1{
+    font-size: 30px;
+}
+
+.q1{
+    color: rgb(180, 197, 31);
+    text-decoration: underline;
+}
+
+footer{
+    height: 100px;
+    background-color: #323534;
+    border-top: solid green 5px;
+}
+
+.a1{
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    background-color: #bae361;
+    list-style: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    left: 500px;
+    top: 140px;
+    color: white;
+}
+
+.a2{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    background-color: #575757;
+    list-style: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    left: 622px;
+    top: 110px;
+    color: white;
+}
+
+.a3{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    background-color: #575757;
+    list-style: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    left: 774px;
+    top: 80px;
+    color: white;
+}
+
+.a4{
+    width: 170px;
+    height: 30px;
+    text-align: center;
+    background-color: #575757;
+    list-style: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    left: 926px;
+    top: 50px;
+    color: white;
+}
+
+.a5{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    background-color: #575757;
+    list-style: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    left: 1098px;
+    top: 20px;
+    color: white;
+}
+
+.u2 :hover{
+    background-color: #bae361;
+}
+
+a{
+    text-decoration: none;
+}
+
+.s1{
+    border: solid 1px rgb(173, 173, 173);
+    border-radius: 20px;
+    height: 280px;
+    width: 230px;
+    position: absolute;
+    bottom: -40px;
+    left: 800px;    
+}
+
+.siaxleebi{
+    margin: 20px;
+    font-size: 20px;
+}
+
+.siaxle{
+    margin: 20px;
+    font-size: 15px;
+    color: cornflowerblue;
+}
+
+.siax{
+    margin: -12px 20px;  
+    font-size: 12px;
+}
+
+.sia{
+    margin: 20px;
+    font-size: 15px;
+}
+
+.si{
+    margin: 20px;
+    font: 20px;
+    text-decoration: underline;
+    color: rgb(248, 212, 7);
+}
+
+.s2{
+    border: solid 1px rgb(173, 173, 173);
+    border-radius: 20px;
+    height: 180px;
+    width: 230px;
+    position: absolute;
+    bottom: -240px;
+    left: 800px;
+}
+
+.linkebi{
+    margin: 20px;
+    font-size: 17px;
+}
+
+.dzebna{
+    border: solid 1px rgb(173, 173, 173);
+    border-radius: 20px;
+    height: 130px;
+    width: 230px;
+    position: absolute;
+    bottom: -400px;
+    left: 800px;
+}
+
+.dze{
+    margin: 20px;
+    font-size: 30px;
+}
+
+.charcho{
+    border: solid 1px gray;
+    margin: auto 7px;
+    width: 130px;
+    height: 25px;
+}
+
+.surati{
+    background-image: url(./png-transparent-magnifying-glass-magnifying-glass-glass-photography-engine.png);
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    position: absolute;
+    left: 170px;
+    top: 73px;
+}
+
+.o1{
+    color: greenyellow;
+    position: absolute;
+    left: 280px;
+    top: 30px;
+    font-size: 40px;
+}
+
+.o2{
+    font-size: 15px;
+    color: grey;
+}
+
+.t1{
+    text-align: center;
+    color: rgb(156, 175, 119);
+    font-size: 15px;
+}
