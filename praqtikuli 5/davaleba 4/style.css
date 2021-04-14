@@ -1,0 +1,75 @@
+header, footer, main{
+    
+    margin: 10px auto;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+header{
+    height: 120px;
+    background-color: #008001;
+}
+
+main{
+    min-height: 300px;
+}
+
+footer{
+    min-height: 70px;
+    background-color: #008001;
+}
+
+.d1, .d2, .d3, .d4, .d5{
+    margin: 12px;
+    width: 200px;
+    height: 45px;
+    background-color: #33b5e6;
+}
+
+a{
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    color: white;
+}
+
+ul :hover{
+    background-color: rgb(37, 165, 148);
+}
+
+.leftmenu ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.h1{
+    margin: 10px;
+    font-size: 45px;
+    position: relative;
+    top: 20px;
+}
+
+.f1{
+    position: relative;
+    top: 20px;
+    left: 300px;
+}
+
+.content{
+    float: right;
+    width: 70%;
+    position: relative;
+    bottom: 245px;
+    font-size: 35px;
+}
+
+.content1{
+    float: right;
+    width: 70%;
+    position: relative;
+    bottom: 210px;
+    font-size: 17px;
+}
+
+

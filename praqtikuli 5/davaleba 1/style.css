@@ -1,0 +1,32 @@
+table, tr{
+    border: solid rgb(97, 97, 97);
+    width: 400px;
+    margin: auto;
+}
+
+th{
+    border: rgb(97, 97, 97) solid 2px;
+    height: 35px; 
+    border-radius: 2px;   
+}
+
+.a1{
+    background-color: #80ffd2;
+}
+
+.a2{
+    background-color: rgb(245, 213, 171);
+}
+
+.c1{
+    background-color: red;
+}
+.c2{
+    background-color: blue;
+}
+.c3{
+    background-color: green;
+}
+.c4{
+    background-color: yellow;
+}
