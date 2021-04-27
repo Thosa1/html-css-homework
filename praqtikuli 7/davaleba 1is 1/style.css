@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+}
+div{
+    color: blue;
+}
+
+.span1{
+    font-size: 30px;
+    color: black;
+}
+
+.span2{
+    font-size: 30px;
+    color: green;
+}
+
+.span3{
+    font-size: 20px;
+}
+
+.asaki{
+    font-size: 13px;
+}
+
+.gadaadgileba{
+    margin: 250px;
+}

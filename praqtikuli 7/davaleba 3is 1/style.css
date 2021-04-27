@@ -1,0 +1,53 @@
+ul{
+    list-style-type: square;
+}
+.mtavaritext{
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    background-image: url(download.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.a{
+    color: green;
+}
+.a1{
+    color: blue;
+}
+
+.photo1{
+    background-image: url(./images.jfif);
+    width: 200px;
+    height: 200px;
+}
+.photo2{
+    background-image: url(./images.jfif);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 300px;
+}
+.photo3{
+    background-image: url(./images.jfif);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 300px;
+}
+.photo4{
+    background-image: url(./images.jfif);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 300px;
+}
+.photo5{
+    background-image: url(./images.jfif);
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 300px;
+}

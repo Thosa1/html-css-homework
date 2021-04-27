@@ -1,0 +1,30 @@
+table, tr{
+    border: solid gray;
+    width: 300px;
+    margin: auto;
+}
+
+td{
+    border:solid black 2px;
+    height: 25px;    
+}
+
+.aqua{
+    background-color: aqua;
+}
+.orange{
+    background-color: orange;
+}
+
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}

@@ -1,0 +1,67 @@
+.mtavari{
+    border: solid black 5px;
+    margin: auto;
+    width: 550px;
+    height: 600px;
+}
+
+.d1{
+    font-size: 30px;
+    margin: 15px;
+}
+
+.dotted{
+    border: dotted aqua;
+    margin: 15px;
+}
+
+.dashed{
+    border: dashed aqua;
+    margin: 15px;
+}
+
+.solid{
+    border: solid aqua;
+    margin: 15px;
+}
+
+.double{
+    border: double aqua;
+    margin: 15px;
+}
+
+.groove{
+    border: groove aqua;
+    margin: 15px;
+}
+
+.ridge{
+    border: ridge aqua;
+    margin: 15px;
+}
+
+.inset{
+    border: inset aqua;
+    margin: 15px;
+}
+
+.outset{
+    border: outset aqua;
+    margin: 15px;
+}
+
+.none{
+    border: none aqua;
+    margin: 15px;
+}
+
+.hidden{
+    border: hidden aqua;
+    margin: 15px;
+}
+
+.mix{
+    border-style: dotted dashed solid double;
+    border-color:aqua;
+    margin: 15px;
+}
