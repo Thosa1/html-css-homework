@@ -1,0 +1,69 @@
+$border: #89e689;
+$background: #e6f8e6;
+$button: #76cf76;
+$color:#8b888e;
+$xazi: #cfe9c6;
+
+form{
+    border: solid 2px $border;
+    background-color: $background;
+    margin: auto;
+    width: 800px;
+}
+
+@mixin saxeli {
+    width: 300px;
+    height: 23px;
+    margin: 10px 20px;
+    color: $color;
+    border: solid $button 1px;
+}
+
+.name{
+    @include saxeli()
+}
+
+.email{
+    @include saxeli()
+}
+
+.phone{
+    @include saxeli()
+}
+
+textarea{
+    margin: 10px 20px;
+    color: $color;
+    border: solid $button 1px;
+}
+
+hr{
+    margin: auto;
+    width: 750px;
+    border: solid 1px $xazi;
+}
+
+.a1{
+    display: inline-table;
+}
+
+.a2{
+    display: inline-table;
+    color: $button;
+}
+
+.a3{
+    color: black;
+}
+button{
+    width: 250px;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    background-color: $button;
+    position: relative;
+    left: 250px;
+    font-size: 18px;
+    color: $background;
+}
+

@@ -1,0 +1,96 @@
+$gray: gray;
+$darkgray: rgb(99, 97, 97);
+$border: rgb(73, 73, 73);
+$black: rgb(0, 0, 0);
+
+form{
+    border: solid black 1px;
+    margin: auto;
+    width: 700px;
+    height: 500px;
+}
+
+p{
+    display: inline;
+    font-size: 20px; 
+    color: $gray;   
+}
+
+.zxazi{
+    display: inline;
+    float: right;
+    color: $gray;
+}
+
+@mixin dasaxeleba {
+    padding: 0px 20px 0px 40px;
+    color: $darkgray;
+    display: inline;
+    width: 500px;
+}
+
+@mixin input {
+    border: none;
+    border-bottom: solid $border 1px;
+    width: 580px;
+}
+
+.Name{
+    @include dasaxeleba()
+}
+
+.ninput{
+    @include input()
+}
+
+.Email{
+    @include dasaxeleba()
+}
+
+.email{
+    @include input()
+}
+
+.password{
+    padding: 0px 20px;
+    color: $darkgray;
+    display: inline;
+    width: 500px;
+}
+
+.pass{
+    @include input()
+}
+
+.disable{
+    padding: 0px 0px 0px 30px;
+    color: $darkgray;
+    display: inline;
+    width: 500px;
+}
+
+.tinput{
+    padding: 0px 25px 0px 40px;
+    font-size: 18px;
+    color: $darkgray;
+}
+
+.dis{
+    @include input()
+}
+
+.a1{
+    padding:0px 0px 0px 30px;
+}
+
+.txtar{
+    font-size: 15px;
+}
+
+.tex{
+    height: 50px;
+    width: 500px;
+    @include input()
+}
+
+

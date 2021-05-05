@@ -1,0 +1,39 @@
+form {
+  border: black solid 2px;
+  margin: auto;
+  width: 300px;
+  height: 250px;
+  background-color: #ecf0f1;
+}
+
+.username {
+  border: solid gray 1px;
+  border-radius: 5px;
+  height: 25px;
+  width: 190px;
+  margin-left: 50px;
+}
+
+.password {
+  border: solid gray 1px;
+  border-radius: 5px;
+  height: 25px;
+  width: 190px;
+  margin-left: 50px;
+}
+
+.sign {
+  color: white;
+  background-color: #e74c3c;
+  border: solid gray 1px;
+  border-radius: 5px;
+  height: 25px;
+  width: 190px;
+  margin-left: 50px;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+}
+/*# sourceMappingURL=page.css.map */

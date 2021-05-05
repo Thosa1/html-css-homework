@@ -1,0 +1,93 @@
+form {
+  border: solid black 1px;
+  margin: auto;
+  width: 700px;
+  height: 500px;
+}
+
+p {
+  display: inline;
+  font-size: 20px;
+  color: gray;
+}
+
+.zxazi {
+  display: inline;
+  float: right;
+  color: gray;
+}
+
+.Name {
+  padding: 0px 20px 0px 40px;
+  color: #636161;
+  display: inline;
+  width: 500px;
+}
+
+.ninput {
+  border: none;
+  border-bottom: solid #494949 1px;
+  width: 580px;
+}
+
+.Email {
+  padding: 0px 20px 0px 40px;
+  color: #636161;
+  display: inline;
+  width: 500px;
+}
+
+.email {
+  border: none;
+  border-bottom: solid #494949 1px;
+  width: 580px;
+}
+
+.password {
+  padding: 0px 20px;
+  color: #636161;
+  display: inline;
+  width: 500px;
+}
+
+.pass {
+  border: none;
+  border-bottom: solid #494949 1px;
+  width: 580px;
+}
+
+.disable {
+  padding: 0px 0px 0px 30px;
+  color: #636161;
+  display: inline;
+  width: 500px;
+}
+
+.tinput {
+  padding: 0px 25px 0px 40px;
+  font-size: 18px;
+  color: #636161;
+}
+
+.dis {
+  border: none;
+  border-bottom: solid #494949 1px;
+  width: 580px;
+}
+
+.a1 {
+  padding: 0px 0px 0px 30px;
+}
+
+.txtar {
+  font-size: 15px;
+}
+
+.tex {
+  height: 50px;
+  width: 500px;
+  border: none;
+  border-bottom: solid #494949 1px;
+  width: 580px;
+}
+/*# sourceMappingURL=style.css.map */

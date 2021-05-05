@@ -1,0 +1,98 @@
+$gray: rgb(156, 156, 156);
+$gray2: rgb(204, 202, 202);
+$aquamarine:  aquamarine;
+
+body{
+    background-color: rgb(14, 185, 163);;
+}
+
+@mixin marginand {
+    margin: auto;
+    width: 1000px;
+    border: solid 1px $gray; 
+}
+
+@mixin header{
+    width: 1000px;
+    height: 200px;
+    margin: auto;
+    border: solid 1px $gray; 
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+.div{
+    background-position: center;
+    background-image: url(../gverdi1/htmlcssjs-details.png);
+    @include header()
+}
+
+.div1{
+    margin: auto;
+    width: 1000px;
+    height: 35px;
+    background-color: $aquamarine;
+    border: solid 1px $gray;
+}
+
+.li{
+    background-color: rgb(26, 150, 113);
+    border: solid 1px $gray;
+    width: 150px;
+    height: 33px;
+    text-align: center;
+    list-style: none;
+    display: inline-table;
+}
+
+a{
+    color:black;
+}
+
+.main{
+    background-color: white ;
+    @include marginand()
+}
+
+.gverdi{
+    display: inline-table;
+    background-color: $gray2;
+    width: 200px;
+}
+
+.li2{
+    border: solid $gray 1px;
+    padding: 5px;
+    list-style: none;
+}
+
+.shidadivi{
+    height: 300px;
+    background-image: url(../gverdi1/26efeef72dc38910f7607b9262ee1cc8.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+form{
+    display: inline-table;
+}
+
+hr{
+    width: 790px;
+}
+
+
+span{
+    color: blue;
+    font-style: oblique;
+}
+
+
+footer{ 
+    @include header()
+    height: 30px;
+    text-align: center;
+    background-color:$aquamarine;
+}

@@ -1,0 +1,68 @@
+form {
+  border: solid 2px #89e689;
+  background-color: #e6f8e6;
+  margin: auto;
+  width: 800px;
+}
+
+.name {
+  width: 300px;
+  height: 23px;
+  margin: 10px 20px;
+  color: #8b888e;
+  border: solid #76cf76 1px;
+}
+
+.email {
+  width: 300px;
+  height: 23px;
+  margin: 10px 20px;
+  color: #8b888e;
+  border: solid #76cf76 1px;
+}
+
+.phone {
+  width: 300px;
+  height: 23px;
+  margin: 10px 20px;
+  color: #8b888e;
+  border: solid #76cf76 1px;
+}
+
+textarea {
+  margin: 10px 20px;
+  color: #8b888e;
+  border: solid #76cf76 1px;
+}
+
+hr {
+  margin: auto;
+  width: 750px;
+  border: solid 1px #cfe9c6;
+}
+
+.a1 {
+  display: inline-table;
+}
+
+.a2 {
+  display: inline-table;
+  color: #76cf76;
+}
+
+.a3 {
+  color: black;
+}
+
+button {
+  width: 250px;
+  height: 40px;
+  border: none;
+  border-radius: 3px;
+  background-color: #76cf76;
+  position: relative;
+  left: 250px;
+  font-size: 18px;
+  color: #e6f8e6;
+}
+/*# sourceMappingURL=style.css.map */
