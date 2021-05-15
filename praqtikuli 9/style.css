@@ -1,0 +1,188 @@
+@charset "UTF-8";
+body {
+  background-color: #096483;
+}
+
+header {
+  background-color: #49bb50;
+  width: 1000px;
+  height: 120px;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.margin {
+  margin: auto;
+  width: 1000px;
+}
+
+.photo1 {
+  background-image: url(./გამეს.გე.png);
+  width: 220px;
+  height: 100px;
+  position: relative;
+  top: 15px;
+  left: 10px;
+  display: inline-block;
+}
+
+.btn {
+  margin-top: 20px;
+  padding: 20px;
+  display: inline-block;
+  font-size: 15px;
+  line-height: 20px;
+  text-decoration: none;
+  color: white;
+  float: right;
+  display: inline-block;
+}
+
+.cover {
+  width: 1000px;
+  height: 300px;
+  background-image: url(./nfsh-gamebox-keyart-1x1.jpg.adapt.crop1x1.767w.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+main {
+  background-color: #e2e2e2;
+  width: 1000px;
+  height: 1200px;
+}
+
+.n1 {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  width: 200px;
+  background-color: #15637c;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  border-left: solid black 5px;
+}
+
+li .active {
+  border: none;
+}
+
+li a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.mainb {
+  background-color: white;
+  width: 550px;
+  height: 465px;
+  display: inline-block;
+}
+
+.metroc {
+  background-image: url(./metro-last-light-redux-cover.jpg);
+  width: 250px;
+  height: 350px;
+  background-size: cover;
+  background-position: center;
+  margin-top: -15px;
+}
+
+.nacrisferi {
+  background-color: #a1a1a1;
+  width: 250px;
+  height: 60px;
+  border-radius: 0px 0px 15px 15px;
+  text-align: center;
+}
+
+.neon {
+  position: relative;
+  top: 20px;
+}
+
+.buttonadgili {
+  background-color: white;
+  width: 550px;
+  height: 80px;
+  position: relative;
+  left: 205px;
+}
+
+.b12 {
+  margin-top: 20px;
+  margin-left: 10px;
+  width: 120px;
+  height: 40px;
+  background-color: #078e95;
+  border: none;
+  border-radius: 15px;
+  color: white;
+}
+
+.b13 {
+  width: 120px;
+  height: 40px;
+  background-color: #49bb50;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  float: right;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.footer {
+  width: 1000px;
+  height: 80px;
+  background-color: #49bb50;
+  border-radius: 0px 0px 15px 15px;
+}
+
+.neon2013 {
+  position: relative;
+  top: 25px;
+  left: 20px;
+  color: white;
+}
+
+.inline {
+  display: inline-block;
+  margin: 20px;
+  float: right;
+  color: white;
+}
+
+.li1 {
+  border-bottom: #b6b5b5 solid 2px;
+  height: 40px;
+  position: relative;
+  left: 800px;
+  bottom: 1155px;
+  color: white;
+  background-color: black;
+}
+
+.r1 {
+  position: relative;
+  left: 10px;
+  border-left: none;
+}
+
+.n2 {
+  width: 225px;
+  list-style: none;
+  position: relative;
+  right: 65px;
+  top: -15px;
+}
+/*# sourceMappingURL=style.css.map */
