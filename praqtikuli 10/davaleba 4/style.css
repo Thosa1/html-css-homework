@@ -1,0 +1,47 @@
+.mtavari{
+    border: solid 8px #000000;
+    margin: auto;
+    width: 700px;
+}
+
+.zedad1{
+    background-color: greenyellow;
+    height: 40px;
+    margin: 5px 5px 5px 5px;
+}
+
+[class*="container_"]{
+    display: flex;
+    justify-content: center;
+}
+
+[class*="me"]{
+    background-color: greenyellow;
+    height: 40px;
+    margin: 5px;
+}
+
+.meore1 , .meore2{
+    width: 50%;
+}
+
+.mesame1 , .mesame2 , .mesame3{
+    width: 33.33%;
+}
+
+.meotxe1 , .meotxe2 , .meotxe3 , .meotxe4{
+    width: 25%;
+}
+
+.mexute1 , .mexute2 , .mexute3 , .mexute4 , .mexute5 , .mexute6{
+    width: 16.66%;
+}
+
+.meeqvse1 , .meeqvse2 , .meeqvse3 , .meeqvse4 , .meeqvse5 , .meeqvse6 , .meeqvse7 , .meeqvse8 , .meeqvse9 , .meeqvse10 , .meeqvse11 , .meeqvse12{
+    width: 8.33%;
+}
+
+
+
+
+

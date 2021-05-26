@@ -1,0 +1,160 @@
+.mtavari{
+    border: solid 8px #000000;
+    margin: auto;
+    width: 700px;
+}
+.container1{
+
+    width: 700px;
+    height: 55px;
+    margin:  auto;
+    margin-bottom: 3px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    background-color: gray;
+}
+
+
+[class*="zedad"]{
+    border: solid gray 1px;
+}
+
+.zedad1{
+    background-color: #ffcccc;
+    width: 25%;
+}
+
+.zedad2{
+    background-color: #ccffcc;
+    width: 20%;
+}
+
+.zedad3{
+    background-color: #ccccff;
+    width: 35%;
+}
+
+
+.container2{
+    width: 700px;
+    height: 55px;
+    margin:  auto;
+    margin-bottom: 3px;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    background-color: gray;
+}
+
+[class*="me"]{
+    border: solid gray 1px;
+    
+}
+
+.meore1{
+    background-color: #ffcccc;
+    width: 25%;
+    order: 2;
+}
+
+.meore2{
+    background-color: #ccffcc;
+    width: 20%;
+    order: 3;
+}
+
+.meore3{
+    background-color: #ccccff;
+    width: 35%;
+    order: 4;
+}
+
+.container3{
+    width: 700px;
+    height: 55px;
+    margin:  auto;
+    margin-bottom: 3px;
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    
+}
+
+.mesame1{
+    background-color: #ffcccc;
+    width: 25%;
+    order: 2;
+}
+
+.mesame2{
+    background-color: #ccffcc;
+    width: 20%;
+    order: 3;
+}
+
+.mesame3{
+    background-color: #ccccff;
+    width: 35%;
+    order: 4;
+}
+
+
+
+.container4{
+    width: 700px;
+    height: 55px;
+    margin:  auto;
+    margin-bottom: 3px;
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+
+.meotxe1{
+    background-color: #ffcccc;
+    width: 20%;
+}
+
+.meotxe2{
+    background-color: #ccffcc;
+    width: 25%;
+    order: 3;
+}
+
+.meotxe3{
+    background-color: #ccccff;
+    width: 35%;
+    order: 5;
+}
+
+.container5{
+    width: 700px;
+    height: 55px;
+    margin:  auto;
+    margin-bottom: 3px;
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+}
+
+.mexute1{
+    background-color: #ffcccc;
+    width: 20%;
+
+}
+
+.mexute2{
+    background-color: #ccffcc;
+    width: 25%;
+    order: 3;
+}
+
+.mexute3{
+    background-color: #ccccff;
+    width: 35%;
+    order: 5;
+}
+
+
+
