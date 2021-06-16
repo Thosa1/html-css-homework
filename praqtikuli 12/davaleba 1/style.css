@@ -1,0 +1,386 @@
+@media(min-width:850px){
+    .muqi{
+    background-color: #4c4c4c;
+    height: 35px;
+    margin: -8px;
+}
+
+.tetri{
+    background-color:white;
+    height: 550px;
+    margin: 8px -8px ;
+
+}
+
+.logo{
+    background-image: url(./Screenshot\ 2021-06-15\ 162951.png);
+    height: 50px;
+    width: 50px;
+    background-size: 80px;
+    background-position: center;
+    position: relative;
+    top: 15px;
+}
+
+.container{
+    display: flex;
+}
+
+.interior{
+    font-size: 30px;
+    color: darkorange;    
+}
+.design{
+    font-size: 30px;
+    color: black;    
+}
+
+.zedat{
+    position: relative;
+    bottom: 10px;
+    left: 15px;
+}
+
+.li1 , .li2{
+    list-style: none;
+    display: inline;
+}
+
+.decoration{
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    left: 9px;
+    color: black;
+}
+
+.hed{
+    display: flex;
+    margin: auto;
+    width: 60%;
+   
+}
+
+.marcx{
+    justify-content: center;
+    font-size: 13px;
+    position: relative;
+    left: 24%;
+    top: 20px;
+    font-weight: bold;
+}
+
+
+
+.div{
+    background-image: linear-gradient(#f5d03d , #ffbb1c);
+    height:35px;
+    width: 85px;
+    display: inline-block;
+}
+
+.photo{
+    background-image: url(./1photo.jpg);
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+
+.main1{
+    background-color:#eaeaea;
+    height: 400px;
+    margin: -8px -8px ;
+}
+
+.maincont{
+    position: relative;
+    top: 80px;
+    display: flex;
+}
+
+.shavi{
+    background-color: #5a5a5a;
+    width: 50px;
+    height: 50px;
+}
+
+.a01{
+    font-size: 30px;
+    position: relative;
+    left: 11px;
+    top: 7px;
+}
+
+.qvedat{
+    font-size: 10px;
+}
+
+.zedat1{
+    font-size: 22px;
+}
+
+.c01{
+    display: flex;
+}
+
+.warwera{
+    position: relative;
+    bottom: 12px;
+    left: 10px;
+}
+
+.maincont1{
+    width: 60%;
+    position: relative;
+    top: 60px;
+}
+
+.grdtx{
+    width: 250px;
+}
+
+.readmore{
+    background-image: linear-gradient(#f8d64d , #f3ad09);
+    height:35px;
+    width: 85px;
+}
+
+.read{
+    position: relative;
+    top: 7px;
+    left: 8px;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.a1{
+    margin: auto;
+}
+
+.test{
+    margin: auto;
+    width:62%;
+    display: flex;
+}
+
+
+.main2{
+    background-color:#15181b;
+    height: 350px;
+    margin: -8px -8px ;
+}
+
+footer{
+    background-color: #494949;
+    height: 50px;
+    margin: -8px;
+}
+
+.footer{
+    height: 50px;
+    margin: auto;
+    width: 60%;
+}
+
+.ftx{
+    position: relative;
+    top: 25%;
+    color: white;
+}
+
+
+
+}
+
+
+/*MEORE_MEDIA*/
+
+
+@media(max-width:850px){
+    .muqi{
+        background-color: #4c4c4c;
+        height: 35px;
+        margin: -8px;
+    }
+
+    .tetri{
+        background-color:white;
+        height: 400px;
+        margin: 8px -8px ;
+    }
+
+    .logo{
+        background-image: url(./Screenshot\ 2021-06-15\ 162951.png);
+        height: 80px;
+        width: 80px;
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        top: 15px;
+    }
+
+    .container{
+        display: flex;
+        margin: auto;
+        width: 50%;
+    }
+
+    .interior{
+        font-size: 30px;
+        color: darkorange;    
+    }
+    .design{
+        font-size: 30px;
+        color: black;    
+    }
+
+    .li1 , .li2{
+        list-style: none;
+        display: inline;
+    }
+
+    .li1{
+        position: relative;
+        top: 0px;
+        left: 5px;
+    }
+
+    .decoration{
+        text-decoration: none;
+        position: relative;
+        top: 10px;
+        left: 9px;
+        color: black;
+    }
+
+    .marcx{
+        justify-content: center;
+        font-size: 10px;
+        font-weight: bold;
+        display: flex;
+    }
+
+    .div{
+        background-image: linear-gradient(#f5d03d , #ffbb1c);
+        height:35px;
+        width: 85px;
+        display: inline-block;
+    }
+
+    .photo{
+        background-image: url(./1photo.jpg);
+        width: 100%;
+        height: 200px;
+        background-size: cover;
+        background-position: center;
+        margin-top: 10px;
+    }
+
+    .main1{
+        background-color:#eaeaea;
+        min-height: 1000px;
+        margin: -8px -8px ;
+    }
+    
+    .maincont{
+        position: relative;
+        top: 80px;
+        display: flex;
+    }
+
+    .shavi{
+        background-color: #5a5a5a;
+        width: 50px;
+        height: 50px;
+    }
+    
+    .a01{
+        font-size: 30px;
+        position: relative;
+        left: 11px;
+        top: 7px;
+    }
+    
+    .qvedat{
+        font-size: 10px;
+    }
+    
+    .zedat1{
+        font-size: 22px;
+    }
+    
+    .c01{
+        display: flex;
+    }
+
+    .warwera{
+        position: relative;
+        bottom: 12px;
+        left: 10px;
+    }
+    
+    .maincont1{
+        width: 60%;
+        position: relative;
+        top: 60px;
+    }
+    
+    .grdtx{
+        width: 250px;
+    }
+    
+    .readmore{
+        background-image: linear-gradient(#f8d64d , #f3ad09);
+        height:35px;
+        width: 85px;
+    }
+
+    .read{
+        position: relative;
+        top: 7px;
+        left: 8px;
+        text-decoration: none;
+        color: black;
+    }
+
+    .a1{
+        margin: auto;
+        margin-bottom: 80px;
+    }
+    
+    .test{
+        margin: auto;
+        width:62%;
+    }
+    
+    
+    .main2{
+        background-color:#15181b;
+        height: 350px;
+        margin: -8px -8px ;
+    }
+    
+    footer{
+        background-color: #494949;
+        height: 50px;
+        margin: -8px;
+    }
+    
+    .footer{
+        height: 50px;
+        margin: auto;
+        width: 60%;
+    }
+    
+    .ftx{
+        position: relative;
+        top: 25%;
+        color: white;
+    }
+
+}
+
+
